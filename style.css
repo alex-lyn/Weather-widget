@@ -1,0 +1,16 @@
+.weather-widget {
+    background-color: #0099cc;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 250px;
+}
+
+.weather-widget .refresh {
+    background-color: white;
+    color: #0099cc;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
